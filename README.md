@@ -1,4 +1,4 @@
-## Hi there 👋 This is Hariharasudhahttps://github.com/HariharasudhaR/HariharasudhaR/edit/main/README.md
+## Hi there 👋 This is Hariharasudha
 
 - Computer Science and Engineering Student
 - 🌱 I’m currently learning DSA
