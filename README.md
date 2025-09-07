@@ -1,7 +1,7 @@
-## Hi there 👋 This is Hariharasudha
+## Hi there 👋 This is Hariharasudhahttps://github.com/HariharasudhaR/HariharasudhaR/edit/main/README.md
 
 - Computer Science and Engineering Student
-- 🌱 I’m currently learning DSA and Integrating API to my workflow
+- 🌱 I’m currently learning DSA
 - How to reach me : <br />
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05cc709d-e999-4764-8bc5-c77ce4e415cb" />](https://www.linkedin.com/in/hariharasudha)
 
