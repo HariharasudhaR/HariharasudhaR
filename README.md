@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Hariharasudha
 
-- Computer Science and Engineering Student
-- 🌱 I’m currently learning DSA
+- 👩🏻‍🎓 Computer Science and Engineering Graduate
+- 🌱 I’m currently learning DSA for upskilling
 - How to reach me : <br />
 [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05cc709d-e999-4764-8bc5-c77ce4e415cb" />](https://www.linkedin.com/in/hariharasudha)
 
